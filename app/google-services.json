@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "355407930006",
+    "project_id": "farmaid-1edc1",
+    "storage_bucket": "farmaid-1edc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355407930006:android:5ab2fe04b5e23bf21e58b7",
+        "android_client_info": {
+          "package_name": "com.example.farmaid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA54gIbwuf5_ZhFYtAJfC2KrxhxN-U-39w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
